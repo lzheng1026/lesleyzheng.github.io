@@ -19,7 +19,7 @@ Simulations.
 
 # Technical Experience
 
-### Upcoming: Portfolio Analytics Group intern @ BlackRock
+### Incoming Portfolio Analytics Group intern @ BlackRock
 
 Summer internship for 2020.
 
